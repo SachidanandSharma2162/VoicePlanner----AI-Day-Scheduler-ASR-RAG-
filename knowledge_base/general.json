@@ -1,0 +1,102 @@
+[
+  {
+    "level": "General",
+    "text": "Time-blocking is the most effective scheduling method for high achievers. Assign every hour of your day to a task. Unscheduled time gets filled by low-priority distractions. Review and adjust your blocks weekly.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "The most productive daily schedule starts with a morning routine: wake up, hydrate, light exercise or meditation for 15 minutes, and then immediately begin your highest priority task — before checking phone or email.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Use the Eisenhower Matrix to prioritize tasks: Urgent+Important (do now), Important+Not Urgent (schedule), Urgent+Not Important (delegate), Neither (eliminate). Most people spend too much time on quadrant 1 — reduce it by planning quadrant 2.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Deep work requires 2–4 uninterrupted hours of focused effort. Schedule your deepest, most cognitively demanding tasks during your biological peak hours (usually 8–11 AM for morning people, 4–7 PM for evening types).",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Hydration directly impacts cognitive performance. Drink at least 8–10 glasses of water daily. Dehydration of just 1–2% reduces concentration, working memory, and mood. Keep water visible during study and work sessions.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Physical exercise for 30–45 minutes daily improves memory, focus, and creativity. Morning exercise (even a brisk walk) increases BDNF levels which enhances neuroplasticity — the brain's ability to form new connections.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Plan the next day every evening. A 10-minute evening review — checking what was completed, what was missed, and what's the priority tomorrow — reduces morning decision fatigue and increases follow-through by 40%.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "The 2-minute rule: if a task takes less than 2 minutes, do it immediately. Don't add it to a list. This clears mental clutter and prevents small tasks from accumulating into overwhelming to-do lists.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Batch similar tasks together. Reply to all messages in one 30-minute window rather than checking notifications constantly. This reduces context-switching overhead — each switch costs 15–20 minutes of focus recovery.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Sleep is the highest-leverage productivity habit. 7–9 hours of quality sleep improves decision-making, emotional regulation, and memory consolidation by a factor of 2–3x compared to sleep-deprived performance.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Use implementation intentions: instead of 'I will study today', say 'I will study DBMS at 5 PM at my desk for 90 minutes'. Specific when-where-how plans increase follow-through by 91% according to behavioral research.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Weekly reviews prevent drift. Every Sunday, review last week's accomplishments, incomplete items, and upcoming priorities. Update your goals and schedule accordingly. Successful people plan at the week level, not just day level.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Eat a protein-rich breakfast to sustain morning focus. Avoid high-sugar meals before deep work — they cause energy spikes followed by crashes. Nuts, eggs, oats, and fruits support sustained cognitive performance.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Accountability partnerships — telling someone your goals and reporting back — increase goal achievement by 65%. Form a study partner, accountability buddy, or join a community with aligned goals.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Eliminate decision fatigue by standardizing recurring choices: same morning routine, pre-planned meals, set study slots. Every small decision depletes the same mental energy reservoir used for learning and problem-solving.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "The best learning technique is active recall: close your book and try to recall what you just read. It is 50% more effective than re-reading. Use flashcards, self-quizzing, or the Feynman technique to reinforce learning.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Take a 10-minute nature walk or do light stretching every 90 minutes of sitting. Prolonged sitting increases cortisol and decreases dopamine — both harm focus and motivation. Movement resets the nervous system.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Use music strategically: instrumental music or binaural beats (40 Hz gamma) can enhance focus for analytical tasks. Avoid music with lyrics during reading or writing — verbal interference reduces comprehension by 20%.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Gratitude and positive visualization for 5 minutes each morning reduces anxiety and improves persistence on difficult tasks. Mental clarity before study or work sessions leads to better decision-making throughout the day.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Track your actual time spent vs planned time weekly. Most people underestimate how long tasks take (planning fallacy). Tracking for 2 weeks reveals your true productivity patterns and helps create realistic schedules.",
+    "source": "general.json"
+  }
+]

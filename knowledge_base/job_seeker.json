@@ -1,0 +1,112 @@
+[
+  {
+    "level": "Job-Seeker",
+    "text": "Job seekers targeting software engineering roles should follow the 3-hour DSA block rule: solve 2–3 problems daily on LeetCode or Codeforces. Focus on patterns: sliding window, two pointers, BFS/DFS, dynamic programming.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "System design study should be scheduled for 1 hour daily. Use resources like Grokking System Design, ByteByteGo, or Designing Data-Intensive Applications. Practice designing systems out loud — mock interviews with peers.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "Apply to 5–10 companies daily, not just 1–2. Use a spreadsheet to track: company name, role, date applied, status, and follow-up date. Follow up via LinkedIn after 1 week of no response.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "Behavioral interview prep deserves 30 minutes every day. Prepare STAR method answers for 15 core questions: tell me about yourself, conflict resolution, leadership, failure, achievement. Record and review your answers.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "Mock interviews should happen at least twice per week. Use Pramp, Interviewing.io, or peer mock sessions. Feedback on communication style and problem-solving approach is as important as getting the answer right.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "Job seekers should dedicate 1 hour daily to personal project enhancement or open source contributions. A strong GitHub profile with recent activity (green squares) is a silent resume that speaks louder than a PDF.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "For FAANG preparation, allocate time by topic difficulty: Arrays/Strings (2 weeks), Trees/Graphs (3 weeks), DP (3 weeks), System Design (ongoing). Do not rush past weak topics — depth beats breadth in FAANG interviews.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "Network actively: send 5 connection requests daily to engineers at target companies. Engage with their posts. Ask for informational interviews. Referrals can bypass ATS filtering that rejects 75% of cold applications.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "Resume should be updated weekly with new skills, projects, or metrics. Quantify every achievement: 'reduced load time by 40%', 'handled 10K DAU'. ATS systems score resumes — include role-specific keywords.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "Take scheduled breaks during job search weeks. One full rest day (Sunday) prevents burnout. Job searching is a full-time job — treat it with professional discipline, including defined working hours and off-hours.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "For product management roles, read one product case study per day. Practice product sense questions: design an app for X, how would you improve YouTube, root cause analysis of a metrics drop.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "Study company-specific interview patterns before applying. Glassdoor, Blind, and LeetCode Discuss have company-tagged interview reports. Tailor your prep to the specific interview format of each target company.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "For data science roles, solve 1 SQL problem daily on StrataScratch or DataLemur, and do one ML model implementation per week. Balance theory (statistics, ML algorithms) with applied coding (pandas, sklearn, PyTorch).",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "Attend virtual job fairs, company info sessions, and LinkedIn Live events for target employers. These create direct recruiter contact that bypasses standard application black holes.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "Schedule a weekly reflection every Friday: which applications are progressing, which topics need more prep, what mock interview feedback to act on. Adjust the coming week's plan based on this review.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "Learn about the companies you're applying to: read their engineering blog, recent product launches, business model, and tech stack. Mentioning company-specific knowledge in interviews dramatically improves offer rates.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "For front-end roles, build and deploy a portfolio website. Include 3 polished projects with live demos. Understand core web performance concepts: Core Web Vitals, lazy loading, bundle optimization.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "Prioritize sleep and mental health during job search. Rejection is statistically inevitable — expect a 5–10% response rate on cold applications. Resilience and consistency over months is what leads to offers.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "For backend engineering roles, deeply understand one language (Python, Java, Go) including its concurrency model, runtime, and standard library. Surface-level multi-language knowledge is a red flag for senior interviewers.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "Prepare a 60-second personal pitch: who you are, your strongest technical skills, one impressive achievement, and what you're looking for. Use this for recruiter calls, networking events, and LinkedIn summary.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "For cloud and DevOps roles, earn at least one certification during job search: AWS Cloud Practitioner, Azure Fundamentals, or GCP Associate. Certifications signal initiative and structured learning to hiring managers.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "Practice coding problems on a whiteboard or paper periodically. Some interviews are still whiteboard-based. Being able to write clean code without IDE assistance separates practiced candidates from tool-dependent ones.",
+    "source": "job_seeker.json"
+  }
+]
