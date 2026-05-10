@@ -1,0 +1,12 @@
+groq
+faster-whisper
+sentence-transformers
+faiss-cpu
+streamlit
+fpdf2
+python-dotenv
+numpy
+torch
+soundfile
+librosa
+pydub
