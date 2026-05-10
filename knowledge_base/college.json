@@ -1,0 +1,112 @@
+[
+  {
+    "level": "College",
+    "text": "College students with classes till 3 PM should use the 4–7 PM golden window for deep work: assignments, projects, or technical subjects. Evenings post-dinner are best for lighter revision and reading.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "For mid-semester and end-semester exams, start subject-wise revision 3 weeks in advance. Dedicate 2 days per subject minimum. Avoid last-minute cramming which destroys conceptual understanding.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "LeetCode practice should be scheduled daily: 1 easy problem in the morning to warm up, 1 medium problem post-lunch. Save hard problems for weekends when you have longer uninterrupted focus blocks.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "For DBMS, OS, CN, and other CS core subjects, study theory Monday–Wednesday and solve past year university questions Thursday–Friday. This theory-to-practice cycle maximises exam scores.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "Minor and major project work should have dedicated slots 3 days a week (e.g., Tuesday, Thursday, Saturday). Maintain a GitHub commit streak for projects — it builds your portfolio and keeps momentum.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "College students targeting FAANG/top tech placements should invest 2–3 hours daily in DSA + system design. Alternate days: Day 1 arrays/trees/graphs, Day 2 system design case study, Day 3 mixed problems.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "For software engineering students, build at least one personal project per semester. Schedule 1 hour on weekday evenings and 3 hours on weekends for project development. Document progress weekly.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "Use Cornell notes method for college lectures: note main ideas on the right, cues on the left. Review within 24 hours. This 3-step method reduces re-reading time by 60% before exams.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "College students should block 30 minutes daily for internship/job applications: updating resume, writing cold emails, applying to 3–5 companies, and following up. Consistency beats binge applying.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "Join or form a study group of 3–5 people for core technical subjects. Weekly 2-hour group sessions where each person teaches one topic is far more effective than solo reading for difficult concepts.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "For students with labs and practicals, review the lab manual the evening before each lab session. Prepare viva answers and understand the experiment theory. This saves confusion during lab hours.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "Machine learning and AI students should balance theory and code equally. Read a paper or chapter in the morning, implement it in the afternoon. Kaggle competitions on weekends build practical skills.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "Maintain a digital second brain (Notion, Obsidian) for college. Organise notes by subject, semester, and topic. Link related concepts. This knowledge base becomes invaluable during placements and interviews.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "For open book exams and assignments, create comprehensive formula sheets and concept summaries as you study throughout the semester. Do not scramble to create them right before exams.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "College students should schedule one 'no-deadline' creative or exploratory learning hour per week. Explore a new technology, read a technical blog, or watch a conference talk. This prevents burnout and sparks innovation.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "For Data Structures, implement every data structure from scratch at least once: linked lists, stacks, queues, trees, graphs, heaps. Understanding implementation beats memorizing APIs for interviews.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "Time management for college students: use time-blocking in Google Calendar. Treat study blocks as unmissable appointments. Schedule 15-minute buffer gaps between blocks for mental reset.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "Students targeting government exams alongside degree should dedicate morning 5–7 AM for competitive exam prep and use college hours efficiently. Avoid overlap that dilutes both preparations.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "Reading technical documentation (React docs, Python docs, AWS docs) for 20 minutes daily builds deep platform knowledge. This differentiates candidates in technical interviews far more than video tutorials.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "College students should track their weekly hours using a habit tracker. Aim for 6–8 hours of productive study daily. Review every Sunday: what was skipped? Why? Adjust next week's plan accordingly.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "For networking in college: attend 1 tech event, webinar, or hackathon per month. Use LinkedIn actively — post about your projects and learnings. 70% of tech jobs are filled through referrals.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "Avoid all-nighters before exams. A rested brain outperforms a cramming exhausted one. Sleep 7–8 hours before exam day. Use the morning of the exam for a 30-minute calm revision of key formulas only.",
+    "source": "college.json"
+  }
+]
