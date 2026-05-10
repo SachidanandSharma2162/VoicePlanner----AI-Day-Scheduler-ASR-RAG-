@@ -1,1 +1,39 @@
+# Environment
 .env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+env/
+
+# Whisper model cache
+~/.cache/whisper/
+*.pt
+
+# Sentence-transformers / HuggingFace cache
+~/.cache/huggingface/
+~/.cache/torch/
+
+# FAISS index (auto-rebuilt)
+*.index
+*.faiss
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Exports
+*.pdf
+*.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
