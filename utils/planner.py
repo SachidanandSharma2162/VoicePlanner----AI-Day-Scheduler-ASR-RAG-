@@ -106,10 +106,10 @@ def generate_plan(
 
 def get_available_models() -> List[str]:
     return [
-        "llama-3.1-8b-instant",
-        "llama-3.1-70b-versatile",
-        "llama3-8b-8192",
-        "llama3-70b-8192",
-        "gemma2-9b-it",
-        "mixtral-8x7b-32768",
+        "llama-3.1-8b-instant",           # fastest, production (560 t/s)
+        "llama-3.3-70b-versatile",         # smartest LLaMA, production (280 t/s)
+        "openai/gpt-oss-120b",             # GPT-OSS 120B, production (500 t/s)
+        "openai/gpt-oss-20b",              # GPT-OSS 20B, production (1000 t/s)
+        "meta-llama/llama-4-scout-17b-16e-instruct",  # Llama 4 Scout, preview (750 t/s)
+        "qwen/qwen3-32b",                  # Qwen3 32B, preview (400 t/s)
     ]
