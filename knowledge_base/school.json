@@ -1,0 +1,102 @@
+[
+  {
+    "level": "School",
+    "text": "School students preparing for board exams should dedicate the first 2 hours of morning (6–8 AM) to their weakest subject when the brain is freshest. Avoid checking phones during this block.",
+    "source": "school.json"
+  },
+  {
+    "level": "School",
+    "text": "For Class 10 and 12 board preparation, rotate between 3 subjects per day: one core science/math, one language, and one elective. Never study the same subject for more than 90 minutes at a stretch.",
+    "source": "school.json"
+  },
+  {
+    "level": "School",
+    "text": "Use the Pomodoro technique for school studies: 25 minutes of focused study followed by a 5-minute break. After 4 cycles, take a 20–30 minute longer break. This prevents mental fatigue during long exam prep days.",
+    "source": "school.json"
+  },
+  {
+    "level": "School",
+    "text": "School students should revise yesterday's notes for 15–20 minutes before starting new material. Spaced repetition dramatically improves retention for subjects like History, Geography, and Biology.",
+    "source": "school.json"
+  },
+  {
+    "level": "School",
+    "text": "For Maths and Physics, practice at least 10 numericals daily. Dedicate separate notebooks for formulas and frequently-wrong problems. Review these notebooks every Sunday.",
+    "source": "school.json"
+  },
+  {
+    "level": "School",
+    "text": "Students attending tuition from 4–6 PM should use 6:30–8:30 PM for self-study of tuition topics while memory is fresh. Avoid new topics post 9 PM — use that time for light revision only.",
+    "source": "school.json"
+  },
+  {
+    "level": "School",
+    "text": "For Chemistry, split study time into Physical, Organic, and Inorganic on alternate days. Physical Chemistry requires daily numericals; Organic requires reaction mechanisms review 3 times a week.",
+    "source": "school.json"
+  },
+  {
+    "level": "School",
+    "text": "School students should attempt at least one full mock test every Sunday. Analyze wrong answers before the next study day. Keep an error log to track recurring mistakes.",
+    "source": "school.json"
+  },
+  {
+    "level": "School",
+    "text": "Balance academics with 30–45 minutes of outdoor physical activity daily. Evening walks or sports between 5–6 PM greatly improve focus during night study sessions.",
+    "source": "school.json"
+  },
+  {
+    "level": "School",
+    "text": "For English board exams, practice one essay or letter writing per day. Reading newspaper editorials for 15 minutes in the morning improves vocabulary and comprehension scores.",
+    "source": "school.json"
+  },
+  {
+    "level": "School",
+    "text": "Plan a dedicated 'revision weekend' two weeks before board exams. Cover entire syllabus overview, chapter summaries, and important formulas. Do not start new topics in this period.",
+    "source": "school.json"
+  },
+  {
+    "level": "School",
+    "text": "Sleep of 7–8 hours is non-negotiable for school students. Memory consolidation happens during deep sleep. Students sleeping less than 6 hours show 40% lower recall during exams.",
+    "source": "school.json"
+  },
+  {
+    "level": "School",
+    "text": "Use diagram-heavy revision for Biology. Draw cell structures, reaction diagrams, and flowcharts by hand. Visual memory aids significantly outperform text re-reading for science subjects.",
+    "source": "school.json"
+  },
+  {
+    "level": "School",
+    "text": "For Social Science, create topic-wise mind maps every weekend. Connect events, dates, causes, and effects. Colour-coding different empires or periods helps during viva and objective questions.",
+    "source": "school.json"
+  },
+  {
+    "level": "School",
+    "text": "School students with extracurricular commitments (sports, music, dance) should front-load academic study in the morning (6–9 AM) to protect afternoon activity time without guilt.",
+    "source": "school.json"
+  },
+  {
+    "level": "School",
+    "text": "Use NCERT textbooks as the primary source for all board exam subjects. Solve every exercise, example, and intext question. NCERT questions directly appear in board papers — do not skip them.",
+    "source": "school.json"
+  },
+  {
+    "level": "School",
+    "text": "For students weak in Maths, dedicate double the time allocation compared to strong subjects. Use video solutions for difficult topics. Join a study group for peer explanation of tricky problems.",
+    "source": "school.json"
+  },
+  {
+    "level": "School",
+    "text": "Time-box social media and entertainment to a fixed 30-minute leisure slot (preferably after dinner). Using app blockers during study hours removes decision fatigue and increases deep work time.",
+    "source": "school.json"
+  },
+  {
+    "level": "School",
+    "text": "Students preparing for competitive exams alongside boards (JEE/NEET) should maintain separate schedules. Morning 6–8 AM for competitive, school hours, then board revision from 6–9 PM.",
+    "source": "school.json"
+  },
+  {
+    "level": "School",
+    "text": "Create a weekly planner every Sunday night. List chapter targets for each subject. A visible plan on paper reduces anxiety and helps track progress, giving a sense of accomplishment.",
+    "source": "school.json"
+  }
+]
