@@ -98,5 +98,105 @@
     "level": "School",
     "text": "Create a weekly planner every Sunday night. List chapter targets for each subject. A visible plan on paper reduces anxiety and helps track progress, giving a sense of accomplishment.",
     "source": "school.json"
+  },
+  {
+    "level": "College",
+    "text": "University students should use the Feynman Technique for complex theoretical concepts: explain the topic in simple terms to a peer or an imaginary 10-year-old. Identify gaps in your explanation, then return to the source material to patch those specific misunderstandings.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "For engineering and STEM undergraduates, review lecture notes within 24 hours of the class. The Ebbinghaus Forgetting Curve shows that reviewing material within one day recovers up to 80% of lost memory, drastically reducing exam cramming stress later.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "When handling heavy research loads or humanities majors, adopt active reading strategies. Instead of highlighting text passively, write a 1-sentence summary in the margins for every three paragraphs read. This creates a highly condensed, personalized revision layer.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "College students writing term papers or research dissertations should split work into distinct blocks: Researching, Outlining, Writing, and Editing. Never try to write and edit on the same day; separation allows your brain to spot logical flaws more objectively.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "Utilize the Cornell Note-Taking System during university lectures. Divide your page into three sections: a narrow left column for cues/keywords, a wide right column for actual lecture notes, and a bottom row for a summary. This format optimizes active recall during finals week.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "To balance part-time internships or jobs with college academics, practice 'Time-Blocking'. Map out your entire week on a digital calendar down to the hour, treating study blocks with the same strict compliance as a scheduled shift at work.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "For computer science and coding students, build a parallel portfolio while studying. Apply theoretical data structures and algorithms to hands-on GitHub projects directly after learning them. Practical synthesis improves exam grades and job marketability simultaneously.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "Before university midterms, form a focused study group limited to 3-4 peers. Assign each member one core syllabus topic to 'teach' the rest of the group. Avoid group sizes larger than 4 to prevent sessions from devolving into casual social gatherings.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "Medical and biology undergraduate students should rely heavily on digital flashcard apps like Anki. Utilizing spaced repetition algorithms ensures that high-volume anatomical terms and pharmacological mechanisms are reviewed right before the brain is about to forget them.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "University students attending long morning lectures should switch to active listening by anticipating the professor’s next slide or point. Formulating 2-3 specific questions during a lecture keeps the brain in a high-focus state and prevents afternoon drowsiness.",
+    "source": "college.json"
+  },
+  {
+    "level": "Competitive",
+    "text": "Aspirants preparing for competitive exams with high negative marking (like JEE or NEET) must track their 'Accuracy Rate' alongside their score. If accuracy drops below 85% on mock tests, the subsequent week must prioritize error elimination over learning new concepts.",
+    "source": "competitive.json"
+  },
+  {
+    "level": "Competitive",
+    "text": "For competitive exams requiring immense factual recall like civil services or UPSC, construct a multi-tiered revision cycle. Review notes on Day 1, Day 7, Day 30, and Day 90. This pushes temporary data into long-term semantic memory.",
+    "source": "competitive.json"
+  },
+  {
+    "level": "Competitive",
+    "text": "Aspirants dealing with vast syllabi should build an 'Active Error Log'. For every question missed during practice, document the question, the concept behind it, and why you got it wrong (conceptual error, calculation error, or misread question). Review this log before every new mock test.",
+    "source": "competitive.json"
+  },
+  {
+    "level": "Competitive",
+    "text": "When mastering highly quantitative segments like Data Interpretation or Advanced Math, focus on speed-building drills. Dedicate 30 minutes daily to timed problem-solving without a calculator, focusing on shortcut techniques, mental math, and elimination strategies.",
+    "source": "competitive.json"
+  },
+  {
+    "level": "Competitive",
+    "text": "To conquer the immense reading comprehension sections of management or law entry exams (GMAT/CAT/CLAT), read high-tier long-form journalism for 30 minutes daily. Focus on analyzing the author's tone, core thesis, and underlying assumptions.",
+    "source": "competitive.json"
+  },
+  {
+    "level": "Competitive",
+    "text": "Competitive exam prep is a marathon; avoid burnout by implementing a hard stop time every night. No study material should be touched after 10 PM. Use the final hour before bed to decompress, which guarantees high cognitive efficiency the following morning.",
+    "source": "competitive.json"
+  },
+  {
+    "level": "Competitive",
+    "text": "Prioritize high-yield topics by studying past 10-year question papers (PYQs). Identify recurring patterns; typically, 20% of the syllabus core accounts for 80% of the exam marks. Master these high-weightage chapters completely before moving to peripheral topics.",
+    "source": "competitive.json"
+  },
+  {
+    "level": "Competitive",
+    "text": "When taking full-length, 3-hour mock exams, replicate exact exam conditions. Sit in a quiet room without air conditioning if the actual center lacks it, wear the same style of clothing, and take the test during the precise time slot of the actual exam to sync your circadian rhythm.",
+    "source": "competitive.json"
+  },
+  {
+    "level": "Competitive",
+    "text": "For competitive exam aspirants working a full-time job, optimize small time pockets. Use commutes for audio lectures or digital flashcards, and split study into a 2-hour early morning block and a 2-hour night block to consistently hit 4 hours daily.",
+    "source": "competitive.json"
+  },
+  {
+    "level": "Competitive",
+    "text": "Maintain physical and mental endurance during year-long competitive prep by taking a complete strategic break every two weeks. Dedicate half a Sunday entirely to hobbies, nature, or social interaction to refresh mental clarity and sustain long-term motivation.",
+    "source": "competitive.json"
   }
 ]

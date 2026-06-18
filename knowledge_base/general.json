@@ -98,5 +98,105 @@
     "level": "General",
     "text": "Track your actual time spent vs planned time weekly. Most people underestimate how long tasks take (planning fallacy). Tracking for 2 weeks reveals your true productivity patterns and helps create realistic schedules.",
     "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Optimize your physical workspace to reduce cognitive friction. Keep only items essential to your current task on your desk. Visual clutter acts as a passive distraction, constantly competing for your brain's limited attentional resources.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Utilize 'Habit Stacking' to anchor new routines to existing ones. The formula is: 'After [Current Habit], I will [New Habit]'. For example, 'After I pour my morning coffee, I will write down my top three priorities for the day'. This leverages established neural pathways.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Practice 'Temproal Landmarks' to boost motivation. Initiate new habits or resets on clean chronological starting points like Mondays, the first of the month, or the day after a holiday. Behavioral science shows people are more likely to sustain commitments started on these landmarks.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Implement a strict 'Digital Sunset' 60 minutes before bed. Turn off all blue-light-emitting screens (phones, tablets, televisions). Blue light suppresses melatonin production, shifting your circadian rhythm and decreasing the restorative value of your deep sleep phases.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "To beat procrastination on major tasks, utilize the '5-Minute Rule'. Tell yourself you will work on the task for just five minutes and are free to stop after that. The hardest part is the friction of starting; once engaged, over 80% of individuals continue working.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Counteract the 'Planning Fallacy' by adding a 20% time buffer to all your self-imposed deadlines. Humans are naturally over-optimistic about how fast they can complete work. Buffer zones prevent a single delayed task from derailing your entire weekly schedule.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Protect your focus using 'Environmental Defaults'. Make bad habits difficult to perform by increasing their activation energy (e.g., place your phone in another room during deep work). Make good habits seamless by lowering activation energy (e.g., leave your book on your pillow).",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "To combat midday cognitive fatigue, schedule a 15–20 minute 'Power Nap' or a Non-Sleep Deep Rest (NSDR) session between 1 PM and 3 PM. Naps exceeding 30 minutes trigger sleep inertia, leaving you groggy, whereas short resets restore alertness and working memory.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Incorporate the 'Zeigarnik Effect' to manage open loops and stress. Uncompleted tasks stay trapped in your active working memory, causing low-level anxiety. Writing down an uncompleted task in a trusted system trick’s the brain into letting go, freeing up cognitive capacity.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Adopt 'Intermittent Fasting' or light eating protocols during high-stakes work windows. Large, carbohydrate-heavy meals divert blood flow away from the brain and toward the digestive system, triggering insulin spikes that cause profound lethargy and brain fog.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "When setting goals, shift your focus from 'Outcome Goals' (e.g., lose 10 pounds) to 'Process Goals' (e.g., walk 10,000 steps daily). You cannot completely control outcomes, but you have absolute control over the execution of daily processes, which drives long-term consistency.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Manage daily emotional baseline and stress levels through 'Box Breathing': inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds. This simple autonomic hack down-regulates your sympathetic nervous system, clearing adrenaline and restoring analytical thought.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Avoid 'Productive Procrastination' — the act of clearing low-value tasks (like cleaning your inbox or organizing files) to escape a high-priority, difficult project. Always tackle your hardest task first; doing easier tasks gives a false sense of achievement while core projects stall.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Harness the power of 'Identity-Based Habits' rather than outcome-based ones. Instead of focusing on what you want to achieve, focus on the type of person you wish to become. Shifting from 'I am trying to run' to 'I am a runner' builds deep intrinsic motivation.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Conduct a monthly 'Digital Audit'. Delete unused applications, turn off non-human notifications (apps, promotions, news alerts), and clear your desktop. Limiting the digital inputs entering your view lowers your daily baseline cortisol and improves general patience.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Utilize the 'Premack Principle' (also known as grandma's rule) to complete undesirable tasks: tie a high-probability behavior (something you want to do) to a low-probability behavior (something you avoid). Only allow yourself to watch your favorite show while on the treadmill.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Optimize your intake of caffeine by delaying your first cup until 90–120 minutes after waking up. This allows your body's natural cortisol levels to spike and clear out adenosine naturally, preventing the common afternoon caffeine crash.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "To increase long-term persistence on creative or complex assignments, implement 'Premature Optimization' limits. Focus entirely on a rough, flawed first draft before switching to analytical mode to edit. Separating creative output from criticism prevents perfectionist paralysis.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "Develop high resilience against lifestyle fatigue by utilizing 'Active Recovery' methods over passive ones. Scrolling social media or watching TV drains mental energy while feeling relaxing; instead, use reading, long walks, or creative hobbies to truly restore your cognitive baseline.",
+    "source": "general.json"
+  },
+  {
+    "level": "General",
+    "text": "When facing a major professional or personal crossroad, apply the '10-10-10 Rule' to clear emotional noise. Ask yourself how you will feel about your choice in 10 minutes, 10 months, and 10 years. This simple framework brings long-term perspective to short-term crises.",
+    "source": "general.json"
   }
 ]

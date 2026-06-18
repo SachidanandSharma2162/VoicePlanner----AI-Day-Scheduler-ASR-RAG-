@@ -108,5 +108,105 @@
     "level": "Job-Seeker",
     "text": "Practice coding problems on a whiteboard or paper periodically. Some interviews are still whiteboard-based. Being able to write clean code without IDE assistance separates practiced candidates from tool-dependent ones.",
     "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "When structuring a portfolio website for tech roles, place the direct links to live, hosted deployments above the fold. Technical recruiters spend less than 10 seconds evaluating portfolios; a broken link or an abstract layout causes immediate abandonment.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "For candidates facing technical take-home assignments, treat production-level documentation as a core deliverable. Include a comprehensive README detailing installation steps, architecture decisions, trade-offs made, and how you would scale the application given more time.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "To bypass automated Applicant Tracking Systems (ATS) rejections, format your resume as a clean, single-column PDF. Avoid complex multi-column grids, embedded tables, graphic skill meters, or text placed inside image headers, as parsing algorithms frequently misread them.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "When an interviewer asks 'Do you have any questions for me?', use this slot to reverse-interview the team. Ask specific operational questions like: 'How do you handle technical debt in your sprint planning?' or 'What does a successful first 90 days look like in this role?'.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "Job seekers entering salary negotiations should never state a definitive number first. Pivot early inquiries by stating: 'I am flexible depending on the total compensation package and scope of responsibilities, but I am targeting roles aligned with market value.'",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "For QA and automation engineering roles, build a public framework repository showing proficiency in contemporary testing stacks (e.g., Playwright, Cypress, Selenium). Include examples of API testing, end-to-end user flows, and a configured CI/CD pipeline integration.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "When applying for remote roles, explicitly state your home time zone and remote work setup in your introductory pitch or cover letter. Hiring managers prioritize candidates who possess established asynchronous communication habits and dedicated, stable home workspaces.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "To effectively follow up after a formal interview, send a personalized thank-you note within 24 hours. Reference a specific, unique topic or technical problem discussed during the conversation to reinforce rapport and signal active engagement.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "Job seekers transitioning careers into tech should format their resumes using a hybrid layout. Place a prominent 'Technical Skills' block and personal project breakdown at the top, followed by chronological employment history emphasizing transferable professional achievements.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "For DevOps and infrastructure applicants, master the core tenets of Infrastructure as Code (IaC) using Terraform or Ansible. Be prepared to explain state management, secrets security, and multi-environment deployment strategies during systems architecture rounds.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "When navigating a multi-stage interview process, keep detailed records of who you spoke with and what was discussed in each round. Subsequent interviewers often sync notes; tracking these conversations prevents you from recycling the same stories or examples.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "To stand out during data analyst interviews, practice translating complex statistical metrics into actionable business recommendations. Interviewers evaluate your data narrative ability; getting the correct mathematical output is only half the baseline expectation.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "Job seekers using LinkedIn for outbound networking should filter searches for 'Hiring Managers' or 'Engineering Leads' at target organizations rather than generic recruiters. Direct outreach to team leads often yields higher response rates for specific technical roles.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "When explaining a past technical failure in an interview, spend 20% of your time describing the problem and 80% outlining what you learned, how you mitigated the fallout, and the structural steps you implemented to ensure the issue never occurred again.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "For UI/UX design job seekers, present your portfolio case studies as chronological problem-solving narratives. Show early wireframes, user testing iterations, and rejected designs alongside the final mockups to prove your systemic design thinking process.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "Optimize your LinkedIn presence by turning on the 'Open to Work' feature hidden from your current employer's recruiters. Ensure your profile headline explicitly contains clear, searchable target keywords like 'Full Stack Developer', 'Go', or 'Kubernetes'.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "When reviewing an official employment offer letter, look for hidden clauses regarding intellectual property (IP) ownership, non-compete geography limits, and termination notice durations. Consult a legal expert before signing if clauses claim ownership over off-hours personal projects.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "Job seekers handling long stretches of unemployment should frame the gap positively on their resume by creating a continuous entry titled 'Independent Technical Consultant' or 'Contract Software Developer'. List open-source contributions and freelance contracts underneath.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "For cybersecurity job seekers, reinforce theoretical certifications (like CompTIA Security+ or CEH) with practical lab evidence. Build a home lab simulation and document your threat hunting, packet analysis, or penetration testing procedures on a technical blog.",
+    "source": "job_seeker.json"
+  },
+  {
+    "level": "Job-Seeker",
+    "text": "Maintain your psychological stamina during an extended job search by tracking outbound metrics strictly without tying your self-worth to response rates. Treat the hunt as an iterative funnel experiment: if application rates are high but response rates are low, fix the resume formatting.",
+    "source": "job_seeker.json"
   }
 ]

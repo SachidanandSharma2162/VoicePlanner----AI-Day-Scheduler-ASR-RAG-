@@ -108,5 +108,105 @@
     "level": "College",
     "text": "Avoid all-nighters before exams. A rested brain outperforms a cramming exhausted one. Sleep 7–8 hours before exam day. Use the morning of the exam for a 30-minute calm revision of key formulas only.",
     "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "University students should use the Feynman Technique for complex theoretical concepts: explain the topic in simple terms to a peer or an imaginary 10-year-old. Identify gaps in your explanation, then return to the source material to patch those specific misunderstandings.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "For engineering and STEM undergraduates, review lecture notes within 24 hours of the class. The Ebbinghaus Forgetting Curve shows that reviewing material within one day recovers up to 80% of lost memory, drastically reducing exam cramming stress later.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "When handling heavy research loads or humanities majors, adopt active reading strategies. Instead of highlighting text passively, write a 1-sentence summary in the margins for every three paragraphs read. This creates a highly condensed, personalized revision layer.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "College students writing term papers or research dissertations should split work into distinct blocks: Researching, Outlining, Writing, and Editing. Never try to write and edit on the same day; separation allows your brain to spot logical flaws more objectively.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "To balance part-time internships or freelance gigs with college academics, practice 'Time-Blocking'. Map out your entire week on a digital calendar down to the hour, treating study blocks with the same strict compliance as a scheduled shift at work.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "Before university midterms, form a focused study group limited to 3-4 peers. Assign each member one core syllabus topic to 'teach' the rest of the group. Avoid group sizes larger than 4 to prevent sessions from devolving into casual social gatherings.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "Medical and biology undergraduate students should rely heavily on digital flashcard apps like Anki. Utilizing spaced repetition algorithms ensures that high-volume anatomical terms and pharmacological mechanisms are reviewed right before the brain is about to forget them.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "University students attending long morning lectures should switch to active listening by anticipating the professor’s next slide or point. Formulating 2-3 specific questions during a lecture keeps the brain in a high-focus state and prevents afternoon drowsiness.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "When learning a new programming language or framework in college, follow the 70/30 rule. Spend 30% of your time watching documentation or tutorials, and 70% building a mini-application or writing code from scratch. Pure video watching creates an illusion of competence.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "College students preparing for research opportunities should read 1 peer-reviewed paper in their field weekly. Highlight the methodology and conclusion sections. Building this habit early simplifies major project literature reviews in final years.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "To ace college presentations and vivas, practice the 10-20-30 rule for slide decks: keep presentations under 10 slides, last less than 20 minutes, and use a font size no smaller than 30 points. Focus on verbal delivery over reading text off a screen.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "For students navigating finance, accounting, or business economics, create a master terms glossary spreadsheet. Update it every Friday with definitions and real-world company examples from financial news to build contextual understanding for case studies.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "College students aiming for study abroad programs or scholarships should build an institutional relationship trail. Attend professor office hours at least twice a month to discuss coursework. Strong academic rapport yields authentic, compelling letters of recommendation.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "Manage college exam anxiety by gamifying your preparation. Turn past papers into closed-book, timed mock assessments 1 week before the actual exam. Simulating the high-pressure environment reduces adrenaline spikes and brain freeze on the actual test day.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "For college students handling laboratory courses, keep a running digital troubleshooting log alongside physical lab records. Document what went wrong during an experiment and how it was resolved; this log is the highest yield source for practical exams.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "To optimize your college elective choices, select subjects that complement your major with a cross-functional skill. For example, a humanities major taking a basic data analysis elective, or a tech major taking a technical writing or public speaking class.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "University students should utilize university library databases (IEEE, JSTOR, Scopus) early in their degree. Learning advanced search operators (AND, OR, NOT) cuts research time by 50% when gathering data for essays, papers, and major projects.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "When a college student falls behind due to illness or unforeseen events, use the triage method. Rank missing tasks by syllabus weightage and proximity of deadline. Complete high-weightage, immediate deadlines first; do not try to catch up chronologically.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "For university group projects where members are unresponsive, establish a written accountability tracker on Day 1. Assign micro-deadlines and clear ownership to specific names. This documentation protects your individual grade if a professor needs to intervene.",
+    "source": "college.json"
+  },
+  {
+    "level": "College",
+    "text": "College students should conduct an academic inventory check halfway through every semester. Calculate your current standing grade based on internal assessments, assignments, and attendance. Use this data to adjust study priorities before final exams arrive.",
+    "source": "college.json"
   }
 ]
